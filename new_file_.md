@@ -58,6 +58,8 @@
 
 4. Теперь создаем commit. 
 ![природа команды>](</Users/igorbenko/Desktop/coding_files/commit.jpg>)
+![commit](https://github.com/ipg1967/VersionsControl/assets/135452952/b9099ccf-d1c5-4de9-89a0-2b0ddba6c873)
+
 Обязательно указываем комментарий. В кавычках!
 
 `git commit -m "<комментарий>"`
