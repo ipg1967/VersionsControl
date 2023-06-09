@@ -1,0 +1,15 @@
+/Users/igorbenko/Desktop/coding_files/codingC/bin/Debug/net7.0/codingC
+/Users/igorbenko/Desktop/coding_files/codingC/bin/Debug/net7.0/codingC.deps.json
+/Users/igorbenko/Desktop/coding_files/codingC/bin/Debug/net7.0/codingC.runtimeconfig.json
+/Users/igorbenko/Desktop/coding_files/codingC/bin/Debug/net7.0/codingC.dll
+/Users/igorbenko/Desktop/coding_files/codingC/bin/Debug/net7.0/codingC.pdb
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.csproj.AssemblyReference.cache
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.AssemblyInfoInputs.cache
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.AssemblyInfo.cs
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.csproj.CoreCompileInputs.cache
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.dll
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/refint/codingC.dll
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.pdb
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/codingC.genruntimeconfig.cache
+/Users/igorbenko/Desktop/coding_files/codingC/obj/Debug/net7.0/ref/codingC.dll
